@@ -22,15 +22,17 @@
 
 <br/>
 
-## 구현방법
+## 어떻게 구현할까?
 
-> [_cd ./implements.js_](https://github.com/TransparentDeveloper/MOZARAM/blob/main/)
+> [보러가기 > _cd ./implements.js_](https://github.com/TransparentDeveloper/MOZARAM/blob/main/)
+
+> [실행해보기 > _node ./implements.js_](https://www.typescriptlang.org/play/?#code/Q)
 
 <br/>
 
 ## 추천 문제
-- [_백준>문제번호_](https://url)
-- [_프로그래머스>문제번호_](https://url)
+- [_백준 > 문제번호_](https://url)
+- [_프로그래머스 > 문제번호_](https://url)
 
 <br/>
 ```
