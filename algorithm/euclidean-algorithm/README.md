@@ -1,6 +1,14 @@
 # 유클리드 호제법
 _Euclidean Algorithm_
 
+<div align="center">
+
+| ![Euclidean Algorithm](https://github.com/user-attachments/assets/774b0b27-a408-4ebf-8630-2a1f4cca5fed) |
+|:---:|
+| _이미지 출처: [velog.io/@h_zee](https://velog.io/@h_zee/%EC%A0%95%EC%88%98%EB%A1%A0-%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C-%ED%98%B8%EC%A0%9C%EB%B2%95)_ |
+
+</div>
+
 ## 요약 설명
 - 두 자연수에 대해 최대공약수를 구하는 알고리즘
 
@@ -14,12 +22,11 @@ _Euclidean Algorithm_
 
 - **`a` 와 `b` 의 곱에서 그것의 최대공약수를 나눴을 때의 몫은 최소공배수이다.**
 
-
 <br/>
 
 ## 언제 사용하면 좋은가?
 
-- 시간복잡도: O(log min(a,b))
+- 시간복잡도: **O(log min(a,b))**
 - 입력값의 크기와 상관없이 사용해도 좋다.
 
 
