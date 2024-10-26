@@ -1,15 +1,30 @@
 # MOZARAM
 
 - 🌱 잔디심기 챌린지!!
-- 🎯 코딩테스트 대비 자료구조, 알고리즘 공부를 위해 만들었습니다.
-- 🤗 학습 내용을 적용할 수 있는 문제를 추천해드려요.
-- 🌟 하루에 하나씩 꾸준히 업로드 하겠습니다.
-- 💬 알고리즘 및 자료구조 구현은 `Javascript` 로 합니다.
+- 🎯 코딩테스트를 위한 실전 대비 학습
+- ⛳️ (정보제공 x) 알고리즘 활용력 향상 목적
+- 🔥 매일 한 문제씩 꾸준히 업로드
+- 💖 배운 내용을 적용할 수 있는 문제 추천
+- 💬 알고리즘 및 자료구조 구현은 `Javascript`!!
+
+<br/>
+
+## 🏆 Challenges
+
+1. **PCCP (코딩전문역량인증)**
+    - 링크: _[certi.programmers.co.kr](https://certi.programmers.co.kr/tryouts/apply/select?tryout_id=288&referrer=%2Ftryouts)_
+    - 기간: _24.10.28 ~ 24.12.15_
+    - 학습과정: _[Google Spreadsheet](https://docs.google.com/spreadsheets/d/1PtFWwEw9yuTd03WRH5oDQfvzOpvkaPtCg3me2ldc9n0/edit?gid=1386834576#gid=1386834576)_
+
+2. _(계획 중)_
+
 
 <br/>
 
 
-🧾 README.md 템플릿
+## 🧾 README.md Template
+
+(* 세부항목 추가 가능, But 아래 항목은 반드시 작성하기.)
 
 ```
 # {알고리즘/자료구조}
