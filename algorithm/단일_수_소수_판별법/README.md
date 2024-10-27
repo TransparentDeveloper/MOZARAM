@@ -14,9 +14,11 @@
   - 한번이라도 나머지가 0 이 된다면, false
   - 그렇지 않다면 true
 
-> **왜 n 까지가 아니라, √n 까지 순회하나?**
->
->  n 은 반드시 √n 이하의 약수를 갖기 때문이다.
+```
+왜 n 까지가 아니라, √n 까지 순회하나?
+
+=> n 은 반드시 √n 이하의 약수를 갖기 때문이다.
+```
 
 <br/>
 
@@ -40,6 +42,6 @@
 <br/>
 
 ## 추천 문제
-- [_프로그래머스 > 문제번호_](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
+- [_프로그래머스 > 92335_](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
 
 <br/>
