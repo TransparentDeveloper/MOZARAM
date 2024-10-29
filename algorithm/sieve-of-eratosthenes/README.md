@@ -1,4 +1,16 @@
 # 에라토스테네스의 체
+_Sieve of Eratosthenes_
+
+<div align="center">
+
+| ![SieveOfEratosthenes](https://github.com/user-attachments/assets/dbd3ebae-e6c7-41ef-9425-96cd3560fb53) |
+|:---:|
+| _이미지 출처: [wikipedia.org](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)_ |
+
+
+</div>
+
+<br/>
 
 ## 요약 설명
 
