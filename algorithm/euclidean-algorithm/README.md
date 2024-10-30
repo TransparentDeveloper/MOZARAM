@@ -41,6 +41,7 @@ _Euclidean Algorithm_
 <br/>
 
 ## 추천 문제
+- [_프로그래머스 > 12940_](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
 - [_프로그래머스 > 120808_](https://school.programmers.co.kr/learn/courses/30/lessons/120808)
 - [_프로그래머스 > 12953_](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 
