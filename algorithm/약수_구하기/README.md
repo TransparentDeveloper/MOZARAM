@@ -31,5 +31,6 @@
 
 ## 추천 문제
 - [_백준 > 2501_](https://www.acmicpc.net/problem/2501)
+- [_백준 > 9506_](https://www.acmicpc.net/problem/9506)
 
 <br/>
