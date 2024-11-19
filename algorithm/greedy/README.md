@@ -26,6 +26,7 @@ _문제 유형별로 구현이 달라진다.._
 
 
 ### 단순 정렬
+- [_백준 > 1049_](https://www.acmicpc.net/problem/1049)
 - [_백준 > 20044_](https://www.acmicpc.net/problem/20044)
 
 ### 스케줄링
